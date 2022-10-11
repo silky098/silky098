@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ✨ @silky098 ✨ 
-- 👀 I’m interested in front end software engineering, especially interested in working with React
-- 🌱 I’m currently re-learning TypeScript
+- 👀 I’m interested in front end software engineering, especially in brushing up my React skills
+- 🌱 I’m currently looking to get to grips with TypeScript
 - 💞️ I’m looking to collaborate on front end application pprojects
 - 📫 How to reach me: man.shailam@gmail.com
 
